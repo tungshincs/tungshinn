@@ -1,0 +1,16 @@
+.wrap-main {
+  background-color: #fff;
+  display: flex;
+  width: 100%;
+  min-height: 500px;
+}
+
+.sidebar-left {
+  background-color: aqua;
+  width: 20%;
+}
+
+.sidebar-right {
+  background-color: blueviolet;
+  width: 80%;
+}
